@@ -1,0 +1,8 @@
+import Dashboard from "./admin/dashboard";
+import "../styles/app.module.css";
+
+const IndexPage = () => {
+    return <Dashboard />;
+};
+
+export default IndexPage;
